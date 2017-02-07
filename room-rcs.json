@@ -2,7 +2,7 @@
   "room":   "music",
   "author": "WiBla",
   "icon":   "https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/room-icon.png",
-  "css":    "https://rawgit.com/Plug-It/pi/pre-release/css/blue.css",
+  "css":    "https://rawgit.com/KaosBass/PlugDJ_VIP/master/music_theme.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
