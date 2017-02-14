@@ -155,11 +155,6 @@
 
 /* BA's */
 
-.avatar-small[style*='126828400949198848'] + .member-inner .member-username-inner::after,
-.guild-settings-modal-members .avatar-small[style*='126828400949198848'] + .member-inner .member-username::after,
-.avatar-popout[style*='126828400949198848']::after,
-.avatar-profile[style*='126828400949198848']::after,
-.message-group .avatar-large[style*='126828400949198848'] + .comment .user-name::after,
 .avatar-small[style*='91297138960527360'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='91297138960527360'] + .member-inner .member-username::after,
 .avatar-popout[style*='91297138960527360']::after,
@@ -222,7 +217,6 @@
 .message-group .avatar-large[style*='136449689460408320'] + .comment .user-name::after{
     content: "BA";
 }
-.avatar-profile[style*='126828400949198848']::after,
 .avatar-profile[style*='91297138960527360']::after,
 .avatar-profile[style*='188609869576798208']::after,
 .avatar-profile[style*='74539987235778560']::after,
@@ -237,7 +231,6 @@
 .avatar-profile[style*='136449689460408320']::after{
     content: "Plug.Dj BA";
 }
-.avatar-small[style*='126828400949198848'] + .member-inner .member-username,
 .avatar-small[style*='91297138960527360'] + .member-inner .member-username,
 .avatar-small[style*='188609869576798208'] + .member-inner .member-username,
 .avatar-small[style*='74539987235778560'] + .member-inner .member-username,
@@ -255,11 +248,6 @@
 .avatar-small[style*='/a_'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='/a_'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='/a_'] + .comment .user-name::after,
-.avatar-small[style*='126828400949198848'] + .member-inner .member-username-inner::after,
-.guild-settings-modal-members .avatar-small[style*='126828400949198848'] + .member-inner .member-username::after,
-.avatar-popout[style*='126828400949198848']::after,
-.avatar-profile[style*='126828400949198848']::after,
-.message-group .avatar-large[style*='126828400949198848'] + .comment .user-name::after,
 .avatar-small[style*='91297138960527360'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='91297138960527360'] + .member-inner .member-username::after,
 .avatar-popout[style*='91297138960527360']::after,
@@ -337,9 +325,6 @@
 .avatar-small[style*='/a_'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='/a_'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='/a_'] + .comment .user-name::after,
-.avatar-small[style*='126828400949198848'] + .member-inner .member-username-inner::after,
-.guild-settings-modal-members .avatar-small[style*='126828400949198848'] + .member-inner .member-username::after,
-.message-group .avatar-large[style*='126828400949198848'] + .comment .user-name::after,
 .avatar-small[style*='91297138960527360'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='91297138960527360'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='91297138960527360'] + .comment .user-name::after,
@@ -382,7 +367,6 @@
     margin-left: 6px;
 }
 .avatar-small[style*='/a_'] + .member-inner .member-username-inner::after,
-.avatar-small[style*='126828400949198848'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='91297138960527360'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='188609869576798208'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='74539987235778560'] + .member-inner .member-username-inner::after,
@@ -398,7 +382,6 @@
     top: -1px;
     font-size: 11px;
 }
-.avatar-popout[style*='126828400949198848']::after,
 .avatar-popout[style*='91297138960527360']::after,
 .avatar-popout[style*='188609869576798208']::after,
 .avatar-popout[style*='74539987235778560']::after,
@@ -419,7 +402,6 @@
     -webkit-transition: all .1s ease-in-out;
     transition: all .1s ease-in-out;
 }
-.avatar-popout[style*='126828400949198848']:hover::after,
 .avatar-popout[style*='91297138960527360']:hover::after,
 .avatar-popout[style*='188609869576798208']:hover::after,
 .avatar-popout[style*='74539987235778560']:hover::after,
@@ -438,7 +420,6 @@
     top: 2.5%;
     right: -25%;
 }
-.avatar-profile[style*='126828400949198848']::after,
 .avatar-profile[style*='91297138960527360']::after,
 .avatar-profile[style*='188609869576798208']::after,
 .avatar-profile[style*='74539987235778560']::after,
