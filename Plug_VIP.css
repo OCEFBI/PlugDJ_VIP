@@ -224,7 +224,8 @@
 .guild-settings-modal-members .avatar-small[style*='93989048976150528'] + .member-inner .member-username::after,
 .avatar-popout[style*='93989048976150528']::after,
 .avatar-profile[style*='93989048976150528']::after,
-.message-group .avatar-large[style*='93989048976150528'] + .comment .user-name::after,{
+.message-group .avatar-large[style*='93989048976150528'] + .comment .user-name::after
+{
     content: "BA";
 }
 .avatar-profile[style*='91297138960527360']::after,
