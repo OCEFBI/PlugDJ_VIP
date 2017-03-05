@@ -249,7 +249,13 @@
 .guild-settings-modal-members .avatar-small[style*='129375828407615488'] + .member-inner .member-username::after,
 .avatar-popout[style*='129375828407615488']::after,
 .avatar-profile[style*='129375828407615488']::after,
-.message-group .avatar-large[style*='129375828407615488'] + .comment .user-name::after
+.message-group .avatar-large[style*='129375828407615488'] + .comment .user-name::after,
+.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='100992856948240384'] + .member-inner .member-username::after,
+.avatar-popout[style*='100992856948240384']::after,
+.avatar-profile[style*='100992856948240384']::after,
+.message-group .avatar-large[style*='100992856948240384'] + .comment .user-name::after
+
 
 {
     content: "BA";
@@ -272,7 +278,8 @@
 .avatar-profile[style*='93989048976150528']::after,
 .avatar-profile[style*='91611701434130432']::after,
 .avatar-profile[style*='110250208872411136']::after,
-.avatar-profile[style*='129375828407615488']::after
+.avatar-profile[style*='129375828407615488']::after,
+.avatar-profile[style*='100992856948240384']::after
 {
     content: "Plug.Dj BA";
 }
@@ -294,7 +301,8 @@
 .avatar-small[style*='93989048976150528'] + .member-inner .member-username,
 .avatar-small[style*='110250208872411136'] + .member-inner .member-username,
 .avatar-small[style*='91611701434130432'] + .member-inner .member-username,
-.avatar-small[style*='129375828407615488'] + .member-inner .member-username
+.avatar-small[style*='129375828407615488'] + .member-inner .member-username,
+.avatar-small[style*='100992856948240384'] + .member-inner .member-username
 {
     position: relative;
 }
@@ -395,7 +403,12 @@
 .guild-settings-modal-members .avatar-small[style*='129375828407615488'] + .member-inner .member-username::after,
 .avatar-popout[style*='129375828407615488']::after,
 .avatar-profile[style*='129375828407615488']::after,
-.message-group .avatar-large[style*='129375828407615488'] + .comment .user-name::after
+.message-group .avatar-large[style*='129375828407615488'] + .comment .user-name::after,
+.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='100992856948240384'] + .member-inner .member-username::after,
+.avatar-popout[style*='100992856948240384']::after,
+.avatar-profile[style*='100992856948240384']::after,
+.message-group .avatar-large[style*='100992856948240384'] + .comment .user-name::after
 {
     position: absolute;
     height: 14px;
@@ -470,7 +483,10 @@
 .message-group .avatar-large[style*='91611701434130432'] + .comment .user-name::after,
 .avatar-small[style*='129375828407615488'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='129375828407615488'] + .member-inner .member-username::after,
-.message-group .avatar-large[style*='129375828407615488'] + .comment .user-name::after
+.message-group .avatar-large[style*='129375828407615488'] + .comment .user-name::after,
+.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='100992856948240384'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='100992856948240384'] + .comment .user-name::after
 {
     position: relative;
     background: rgba(100, 100, 100, 0.3);
@@ -496,7 +512,8 @@
 .avatar-small[style*='93989048976150528'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='110250208872411136'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='91611701434130432'] + .member-inner .member-username-inner::after,
-.avatar-small[style*='129375828407615488'] + .member-inner .member-username-inner::after
+.avatar-small[style*='129375828407615488'] + .member-inner .member-username-inner::after,
+.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after
 {
     top: -1px;
     font-size: 11px;
@@ -519,7 +536,8 @@
 .avatar-popout[style*='93989048976150528']::after,
 .avatar-popout[style*='110250208872411136']::after,
 .avatar-popout[style*='91611701434130432']::after,
-.avatar-popout[style*='129375828407615488']::after
+.avatar-popout[style*='129375828407615488']::after,
+.avatar-popout[style*='100992856948240384']::after
 
 {
     padding: 3px;
@@ -548,7 +566,8 @@
 .avatar-popout[style*='93989048976150528']:hover::after,
 .avatar-popout[style*='110250208872411136']:hover::after,
 .avatar-popout[style*='91611701434130432']:hover::after,
-.avatar-popout[style*='129375828407615488']:hover::after
+.avatar-popout[style*='129375828407615488']:hover::after,
+.avatar-popout[style*='100992856948240384']:hover::after
 {
     color: #fff;
     font-size: 20px;
@@ -574,7 +593,8 @@
 .avatar-profile[style*='93989048976150528']::after,
 .avatar-profile[style*='110250208872411136']::after,
 .avatar-profile[style*='91611701434130432']::after,
-.avatar-profile[style*='129375828407615488']::after
+.avatar-profile[style*='129375828407615488']::after,
+.avatar-profile[style*='100992856948240384']::after
 {
     background: rgba(0, 0, 0, 0.3);
     padding: 3px;
@@ -596,22 +616,15 @@
 .guild-settings-modal-members .avatar-small[style*='93825299266928640'] + .member-inner .member-username::after,
 .avatar-popout[style*='93825299266928640']::after,
 .avatar-profile[style*='93825299266928640']::after,
-.message-group .avatar-large[style*='93825299266928640'] + .comment .user-name::after,
-.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after,
-.guild-settings-modal-members .avatar-small[style*='100992856948240384'] + .member-inner .member-username::after,
-.avatar-popout[style*='100992856948240384']::after,
-.avatar-profile[style*='100992856948240384']::after,
-.message-group .avatar-large[style*='100992856948240384'] + .comment .user-name::after{
+.message-group .avatar-large[style*='93825299266928640'] + .comment .user-name::after{
     content: "Trial BA";
 }
 .avatar-profile[style*='129363895696621569']::after,
-.avatar-profile[style*='93825299266928640']::after,
-.avatar-profile[style*='100992856948240384']::after{
+.avatar-profile[style*='93825299266928640']::after{
     content: "Plug.Dj Trial BA";
 }
 .avatar-small[style*='129363895696621569'] + .member-inner .member-username,
-.avatar-small[style*='93825299266928640'] + .member-inner .member-username,
-.avatar-small[style*='100992856948240384'] + .member-inner .member-username
+.avatar-small[style*='93825299266928640'] + .member-inner .member-username
 {
     position: relative;
 }
@@ -624,12 +637,7 @@
 .guild-settings-modal-members .avatar-small[style*='93825299266928640'] + .member-inner .member-username::after,
 .avatar-popout[style*='93825299266928640']::after,
 .avatar-profile[style*='93825299266928640']::after,
-.message-group .avatar-large[style*='93825299266928640'] + .comment .user-name::after,
-.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after,
-.guild-settings-modal-members .avatar-small[style*='100992856948240384'] + .member-inner .member-username::after,
-.avatar-popout[style*='100992856948240384']::after,
-.avatar-profile[style*='100992856948240384']::after,
-.message-group .avatar-large[style*='100992856948240384'] + .comment .user-name::after{
+.message-group .avatar-large[style*='93825299266928640'] + .comment .user-name::after{
     position: absolute;
     height: 14px;
     padding: 1px 2px;
@@ -649,24 +657,19 @@
 .message-group .avatar-large[style*='129363895696621569'] + .comment .user-name::after,
 .avatar-small[style*='93825299266928640'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='93825299266928640'] + .member-inner .member-username::after,
-.message-group .avatar-large[style*='93825299266928640'] + .comment .user-name::after,
-.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after,
-.guild-settings-modal-members .avatar-small[style*='100992856948240384'] + .member-inner .member-username::after,
-.message-group .avatar-large[style*='100992856948240384'] + .comment .user-name::after{
+.message-group .avatar-large[style*='93825299266928640'] + .comment .user-name::after{
     position: relative;
     background: rgba(100, 100, 100, 0.3);
     color: hsla(0, 0%, 100%, 0.6);
     margin-left: 6px;
 }
 .avatar-small[style*='129363895696621569'] + .member-inner .member-username-inner::after,
-.avatar-small[style*='93825299266928640'] + .member-inner .member-username-inner::after,
-.avatar-small[style*='100992856948240384'] + .member-inner .member-username-inner::after,{
+.avatar-small[style*='93825299266928640'] + .member-inner .member-username-inner::after{
     top: -1px;
     font-size: 11px;
 }
 .avatar-popout[style*='129363895696621569']::after,
-.avatar-popout[style*='93825299266928640']::after,
-.avatar-popout[style*='100992856948240384']::after,{
+.avatar-popout[style*='93825299266928640']::after{
     padding: 3px;
     font-size: 15px;
     top: 5%;
@@ -676,8 +679,7 @@
     transition: all .1s ease-in-out;
 }
 .avatar-popout[style*='129363895696621569']:hover::after,
-.avatar-popout[style*='93825299266928640']:hover::after,
-.avatar-popout[style*='100992856948240384']:hover::after,{
+.avatar-popout[style*='93825299266928640']:hover::after{
     color: #fff;
     font-size: 20px;
     padding: 5px 4px;
@@ -685,8 +687,7 @@
     right: -25%;
 }
 .avatar-profile[style*='129363895696621569']::after,
-.avatar-profile[style*='93825299266928640']::after,
-.avatar-profile[style*='100992856948240384']::after,{
+.avatar-profile[style*='93825299266928640']::after{
     background: rgba(0, 0, 0, 0.3);
     padding: 3px;
     font-size: 15px;
