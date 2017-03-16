@@ -27,7 +27,7 @@
     "user":             null
   },
   "images": {
-    "background":       "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/background/default/custom.jpg",
+    "background":       "https://raw.githubusercontent.com/Plug-It/pi/master/images/background/3.png",
     "playback":         null,
     "admin":            null,
     "ambassador":       null,
