@@ -44,7 +44,7 @@
 .avatar-profile[style*='125696852799520769']::after,
 .avatar-profile[style*='271035308944916490']::after,
 .avatar-profile[style*='97791272479121408']::after{
-    content: "Plug.Dj Admin";
+    content: "plug.dj Admin";
 }
 .avatar-small[style*='204147765624832000'] + .member-inner .member-username,
 .avatar-small[style*='87323030962851840'] + .member-inner .member-username,
@@ -323,7 +323,7 @@
 .avatar-profile[style*='106750383161901056']::after,
 .avatar-profile[style*='66770655093194752']::after
 {
-    content: "Plug.Dj BA";
+    content: "plug.dj BA";
 }
 .avatar-small[style*='91297138960527360'] + .member-inner .member-username,
 .avatar-small[style*='188609869576798208'] + .member-inner .member-username,
@@ -669,7 +669,7 @@
     content: "Trial BA";
 }
 .avatar-profile[style*='131129476527554560']::after{
-    content: "Plug.Dj Trial BA";
+    content: "plug.dj Trial BA";
 }
 .avatar-small[style*='131129476527554560'] + .member-inner .member-username
 {
