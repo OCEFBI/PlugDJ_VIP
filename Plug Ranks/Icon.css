@@ -21,7 +21,7 @@
 .avatar-small[style*='97791272479121408'] + .member-inner .member-username-inner::before,
 .guild-settings-modal-members .avatar-small[style*='97791272479121408'] + .member-inner .member-username::before,
 .message-group .avatar-large[style*='97791272479121408'] + .comment .user-name::before{
-    content: url(http://i.imgur.com/585O9bD.png);
+    content: url(https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/Plug%20Ranks/Admin.png);
 }
 .avatar-small[style*='/a_'] + .member-inner .member-username-inner::before,
 .guild-settings-modal-members .avatar-small[style*='/a_'] + .member-inner .member-username::before,
@@ -188,7 +188,7 @@
 .avatar-profile[style*='131129476527554560']::before,
 .message-group .avatar-large[style*='131129476527554560'] + .comment .user-name::before
 {
-    content: url(http://i.imgur.com/KfCgHzX.png);
+    content: url(https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/Plug%20Ranks/BA.png);
 }
 
 .avatar-small[style*='/a_'] + .member-inner .member-username-inner::before,
