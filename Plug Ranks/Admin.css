@@ -1,0 +1,172 @@
+
+.avatar-small[style*='204147765624832000'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='204147765624832000'] + .member-inner .member-username::after,
+.avatar-popout[style*='204147765624832000']::after,
+.avatar-profile[style*='204147765624832000']::after,
+.message-group .avatar-large[style*='204147765624832000'] + .comment .user-name::after,
+.avatar-small[style*='87323030962851840'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='87323030962851840'] + .member-inner .member-username::after,
+.avatar-popout[style*='87323030962851840']::after,
+.avatar-profile[style*='87323030962851840']::after,
+.message-group .avatar-large[style*='87323030962851840'] + .comment .user-name::after,
+.avatar-small[style*='213000862769872896'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='213000862769872896'] + .member-inner .member-username::after,
+.avatar-popout[style*='213000862769872896']::after,
+.avatar-profile[style*='213000862769872896']::after,
+.message-group .avatar-large[style*='213000862769872896'] + .comment .user-name::after,
+.avatar-small[style*='125696852799520769'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='125696852799520769'] + .member-inner .member-username::after,
+.avatar-popout[style*='125696852799520769']::after,
+.avatar-profile[style*='125696852799520769']::after,
+.message-group .avatar-large[style*='125696852799520769'] + .comment .user-name::after,
+.avatar-small[style*='271035308944916490'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='271035308944916490'] + .member-inner .member-username::after,
+.avatar-popout[style*='271035308944916490']::after,
+.avatar-profile[style*='271035308944916490']::after,
+.message-group .avatar-large[style*='271035308944916490'] + .comment .user-name::after,
+.avatar-small[style*='97791272479121408'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='97791272479121408'] + .member-inner .member-username::after,
+.avatar-popout[style*='97791272479121408']::after,
+.avatar-profile[style*='97791272479121408']::after,
+.message-group .avatar-large[style*='97791272479121408'] + .comment .user-name::after{
+    content: "Admin";
+}
+.avatar-profile[style*='204147765624832000']::after,
+.avatar-profile[style*='87323030962851840']::after,
+.avatar-profile[style*='213000862769872896']::after,
+.avatar-profile[style*='125696852799520769']::after,
+.avatar-profile[style*='271035308944916490']::after,
+.avatar-profile[style*='97791272479121408']::after{
+    content: "plug.dj Admin";
+}
+.avatar-small[style*='204147765624832000'] + .member-inner .member-username,
+.avatar-small[style*='87323030962851840'] + .member-inner .member-username,
+.avatar-small[style*='213000862769872896'] + .member-inner .member-username,
+.avatar-small[style*='125696852799520769'] + .member-inner .member-username,
+.avatar-small[style*='271035308944916490'] + .member-inner .member-username,
+.avatar-small[style*='97791272479121408'] + .member-inner .member-username{
+    position: relative;
+}
+.avatar-small[style*='/a_'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='/a_'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='/a_'] + .comment .user-name::after,
+.avatar-small[style*='204147765624832000'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='204147765624832000'] + .member-inner .member-username::after,
+.avatar-popout[style*='204147765624832000']::after,
+.avatar-profile[style*='204147765624832000']::after,
+.message-group .avatar-large[style*='204147765624832000'] + .comment .user-name::after,
+.avatar-small[style*='87323030962851840'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='87323030962851840'] + .member-inner .member-username::after,
+.avatar-popout[style*='87323030962851840']::after,
+.avatar-profile[style*='87323030962851840']::after,
+.message-group .avatar-large[style*='87323030962851840'] + .comment .user-name::after,
+.avatar-small[style*='213000862769872896'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='213000862769872896'] + .member-inner .member-username::after,
+.avatar-popout[style*='213000862769872896']::after,
+.avatar-profile[style*='213000862769872896']::after,
+.message-group .avatar-large[style*='213000862769872896'] + .comment .user-name::after,
+.avatar-small[style*='125696852799520769'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='125696852799520769'] + .member-inner .member-username::after,
+.avatar-popout[style*='125696852799520769']::after,
+.avatar-profile[style*='125696852799520769']::after,
+.message-group .avatar-large[style*='125696852799520769'] + .comment .user-name::after,
+.avatar-small[style*='271035308944916490'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='271035308944916490'] + .member-inner .member-username::after,
+.avatar-popout[style*='271035308944916490']::after,
+.avatar-profile[style*='271035308944916490']::after,
+.message-group .avatar-large[style*='271035308944916490'] + .comment .user-name::after,
+.avatar-small[style*='97791272479121408'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='97791272479121408'] + .member-inner .member-username::after,
+.avatar-popout[style*='97791272479121408']::after,
+.avatar-profile[style*='97791272479121408']::after,
+.message-group .avatar-large[style*='97791272479121408'] + .comment .user-name::after{
+    position: absolute;
+    height: 14px;
+    padding: 1px 2px;
+    border-radius: 3px;
+    background: rgba(0, 0, 0, 0.5);
+    color: hsla(0, 0%, 100%, 0.8);
+    font-size: 10px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 16px;
+    text-shadow: 0 0 1px rgba(0, 0, 0, .3);
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+.avatar-small[style*='/a_'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='/a_'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='/a_'] + .comment .user-name::after,
+.avatar-small[style*='204147765624832000'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='204147765624832000'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='204147765624832000'] + .comment .user-name::after,
+.avatar-small[style*='87323030962851840'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='87323030962851840'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='87323030962851840'] + .comment .user-name::after,
+.avatar-small[style*='213000862769872896'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='213000862769872896'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='213000862769872896'] + .comment .user-name::after,
+.avatar-small[style*='125696852799520769 '] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='125696852799520769 '] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='125696852799520769 '] + .comment .user-name::after,
+.avatar-small[style*='271035308944916490'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='271035308944916490'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='271035308944916490'] + .comment .user-name::after,
+.avatar-small[style*='97791272479121408'] + .member-inner .member-username-inner::after,
+.guild-settings-modal-members .avatar-small[style*='97791272479121408'] + .member-inner .member-username::after,
+.message-group .avatar-large[style*='97791272479121408'] + .comment .user-name::after{
+    position: relative;
+    background: rgba(100, 100, 100, 0.3);
+    color: hsla(0, 0%, 100%, 0.6);
+    margin-left: 6px;
+}
+.avatar-small[style*='/a_'] + .member-inner .member-username-inner::after,
+.avatar-small[style*='204147765624832000'] + .member-inner .member-username-inner::after,
+.avatar-small[style*='87323030962851840'] + .member-inner .member-username-inner::after,
+.avatar-small[style*='213000862769872896'] + .member-inner .member-username-inner::after,
+.avatar-small[style*='125696852799520769'] + .member-inner .member-username-inner::after,
+.avatar-small[style*='271035308944916490'] + .member-inner .member-username-inner::after,
+.avatar-small[style*='97791272479121408'] + .member-inner .member-username-inner::after{
+    top: -1px;
+    font-size: 11px;
+}
+.avatar-popout[style*='204147765624832000']::after,
+.avatar-popout[style*='87323030962851840']::after,
+.avatar-popout[style*='213000862769872896']::after,
+.avatar-popout[style*='125696852799520769']::after,
+.avatar-popout[style*='271035308944916490']::after,
+.avatar-popout[style*='97791272479121408']::after{
+    padding: 3px;
+    font-size: 15px;
+    top: 5%;
+    right: -15%;
+    z-index: 2;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+}
+.avatar-popout[style*='204147765624832000']:hover::after,
+.avatar-popout[style*='87323030962851840']:hover::after,
+.avatar-popout[style*='213000862769872896']:hover::after,
+.avatar-popout[style*='125696852799520769']:hover::after,
+.avatar-popout[style*='271035308944916490']:hover::after,
+.avatar-popout[style*='97791272479121408']:hover::after{
+    color: #fff;
+    font-size: 20px;
+    padding: 5px 4px;
+    top: 2.5%;
+    right: -25%;
+}
+.avatar-profile[style*='204147765624832000']::after,
+.avatar-profile[style*='87323030962851840']::after,
+.avatar-profile[style*='213000862769872896']::after,
+.avatar-profile[style*='125696852799520769']::after,
+.avatar-profile[style*='271035308944916490']::after,
+.avatar-profile[style*='97791272479121408']::after{
+    background: rgba(0, 0, 0, 0.3);
+    padding: 3px;
+    font-size: 15px;
+    top: -5%;
+    left: 0;
+    text-transform: none;
+    width: 100%;
+}
