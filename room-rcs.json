@@ -1,7 +1,7 @@
 {
   "room":   "music",
   "author": "WiBla",
-  "icon":   "https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/room-icon.png",
+  "icon":   "https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/Bass_Line.png",
   "css":    "https://rawgit.com/KaosBass/PlugDJ_VIP/master/music_theme.css",
   "rules": {
     "allowAutorespond": true,
