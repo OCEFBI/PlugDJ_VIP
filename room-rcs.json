@@ -2,7 +2,7 @@
   "room":   "Bass Line",
   "author": "WiBla",
   "icon":   "https://raw.githubusercontent.com/KaosBass/PlugDJ_VIP/master/Bass_Line.png",
-  "css":    "https://rawgit.com/KaosBass/PlugDJ_VIP/master/music_theme.css",
+  "css":    "https://cdn.jsdelivr.net/gh/KaosBass/PlugDJ_VIP@master/music_theme.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
